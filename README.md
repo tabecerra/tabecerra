@@ -1,7 +1,7 @@
 <h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hello there! I'm Tomás Becerra.</h1>
 
 <p>Welcome to my page! </br> I'm Tomas, Fullstack developer from <img src="https://cdn-icons-png.flaticon.com/512/16021/16021893.png" width="13"/> <b>Buenos Aires, Argentina</b>.</p>
-<p>I’m currently working on <img src="https://play-lh.googleusercontent.com/TdwB0i1X0bz0JT6sy1yWE5nwbnEu764Ztfa-zTKUJThedTnzcQ4R7-uxKZ6pmP6fdw28" width="26"/> <b>Calim Estudio Contable Digital</b>.</p>
+<p>I’m currently working on 📝 <b>Calim Estudio Contable Digital</b>.</p>
 
 
 <h3>Things I code with</h3>
