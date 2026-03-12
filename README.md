@@ -37,11 +37,11 @@
       <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tabecerra/gestor-de-productos?style=flat-square&labelColor=343b41"/></td>
     </tr>
     <tr>
-      <td><a href="https://github.com/tabecerra/handball-stats"><b>Handball Stats</b></a></td>
-      <td><img alt="Stars" src="https://img.shields.io/github/stars/tabecerra/handball-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Forks" src="https://img.shields.io/github/forks/tabecerra/handball-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Issues" src="https://img.shields.io/github/issues/tabecerra/handball-stats?style=flat-square&labelColor=343b41"/></td>
-      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tabecerra/handball-stats?style=flat-square&labelColor=343b41"/></td>
+      <td><a href="https://github.com/tabecerra/handball-stats"><b>Habit Tracker</b></a></td>
+      <td><img alt="Stars" src="https://img.shields.io/github/stars/tabecerra/habit-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Forks" src="https://img.shields.io/github/forks/tabecerra/habit-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Issues" src="https://img.shields.io/github/issues/tabecerra/habit-tracker?style=flat-square&labelColor=343b41"/></td>
+      <td><img alt="Pull Requests" src="https://img.shields.io/github/issues-pr/tabecerra/habit-tracker?style=flat-square&labelColor=343b41"/></td>
     </tr>
   </tbody>
 </table>
