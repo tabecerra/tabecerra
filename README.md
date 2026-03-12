@@ -8,9 +8,8 @@
 
 <h3>Main skills</h3>
 
-[![Skills](https://skills.syvixor.com/api/icons?perline=8&i=java,html,css3,javascript,typescript,python,reactjs,nodejs,angularjs,ionic,vercel,sass,git,spring,hibernate,mysql,postgresql,sql,n8n,docker,linux,ubuntu,postman,jquery)
+[![Skills](https://skills.syvixor.com/api/icons?perline=8&i=java,html,css3,javascript,typescript,python,reactjs,nodejs,angularjs,ionic,vercel,sass,git,spring,hibernate,mysql,postgresql,sql,n8n,docker,linux,ubuntu,postman,jquery)](https://skillicons.dev)
 
-[![Learning](https://skillicons.dev/icons?i=aws,azure,ruby)](https://skillicons.dev)
 <h3>Open source projects</h3>
 <table>
   <thead align="center">
